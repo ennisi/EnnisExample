@@ -1,4 +1,4 @@
-%´«Í³ÖÐÖµÂË²¨plus¿ª¹ØÅÐ¶Ï
+%å¼€å…³ä¸­å€¼æ»¤æ³¢
 Image=imread('lena.jpg');
 NoiseImage=imnoise(Image,'salt & pepper',0.8);
 [sizex,sizey]=size(NoiseImage);
